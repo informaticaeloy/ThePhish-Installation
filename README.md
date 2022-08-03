@@ -80,4 +80,5 @@ Starting services
   * Service thehive is starting
 >>>> TheHive installation complete! More information is available in /tmp/install-thehive.log file.
 
+![image](https://user-images.githubusercontent.com/20743678/182614300-3c1caeaa-da1e-49bf-8c98-2de07e529a65.png)
 
