@@ -1,9 +1,33 @@
 # ThePhish-Installation
 
+usuario@ubuntu:~$ java --version
+
+Command 'java' not found, but can be installed with:
+
+> sudo apt install default-jre              # version 2:1.11-72, or
+
+ sudo apt install openjdk-11-jre-headless  # version 11.0.15+10-0ubuntu0.20.04.1
+
+ sudo apt install openjdk-13-jre-headless  # version 13.0.7+5-0ubuntu1~20.04
+
+ sudo apt install openjdk-16-jre-headless  # version 16.0.1+9-1~20.04
+
+ sudo apt install openjdk-17-jre-headless  # version 17.0.3+7-0ubuntu0.20.04.1
+
+ sudo apt install openjdk-8-jre-headless   # version 8u312-b07-0ubuntu1~20.04 <
+
+```shell
+sudo apt install default-jdk
+```
+
 ```shell
 sudo -v ; wget -q -O /tmp/install-thehive.sh https://archives.strangebee.com/scripts/install-deb.sh ; bash /tmp/install-thehive.sh
 
 ```
+![image](https://user-images.githubusercontent.com/20743678/182606204-7d1c61d7-ac05-4f6e-a899-b09fe3a1c8ce.png)
+
+![image](https://user-images.githubusercontent.com/20743678/182607507-b9834134-1e7f-412d-8ab3-9d52c9a4b11a.png)
+
 
 ![image](https://user-images.githubusercontent.com/20743678/182128531-fcc82ec5-8b80-45bb-92b8-863cfb61d1bf.png)
 
